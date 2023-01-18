@@ -1,0 +1,8 @@
+/*We can use either the element names ie p and div in this case or the class names*/
+.container .text{
+    background-color: #ffff00;
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;    
+}
